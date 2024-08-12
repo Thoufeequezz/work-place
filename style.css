@@ -699,6 +699,7 @@ header .bg-nav{
     .India-animation {
         height: 150px;
         width: 1px;
+        display: none;
         
     }
     .card-container ul .card .ll{
