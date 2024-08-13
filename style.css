@@ -1306,7 +1306,7 @@ textarea::-webkit-scrollbar-thumb {
     display: flex;
     justify-content: center;
     align-items: center;    
-    background: var(--primary-color)
+    background: var(--primary-color);
     height: 30px;
 }
 .copyright p{
