@@ -73,7 +73,7 @@ header .header-logo{
     /* transform: scale(2.0); */
 
 }
-.toggle-btn{
+header .toggle-btn{
     display: none;
     position: relative;
     font-size: 3rem;
