@@ -74,11 +74,12 @@ header .header-logo{
 
 }
 .toggle-btn{
+    display: none;
     position: relative;
     font-size: 3rem;
     color: var(--secondary-color);
     cursor: pointer;
-    display: none;
+    
 
     
     
