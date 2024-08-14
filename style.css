@@ -1575,7 +1575,7 @@ textarea::-webkit-scrollbar-thumb {
         font-size: 59%;
 
     }
-    .toggle-btn{
+    header .toggle-btn{
         display:block;
 
      }
@@ -1675,7 +1675,7 @@ textarea::-webkit-scrollbar-thumb {
         font-size: 50%;
     }
     header .mode {
-       left:19%;
+     right:19%;
         
     }
     
